@@ -1,0 +1,34 @@
+name: Build PDF and convert LaTeX to MD
+on: push
+
+jobs:
+  build_latex_and_md:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: SxsPolicies.tex
+      - name: Convert policies to MD
+        uses: docker://pandoc/core
+        with:
+          args: >-
+              --to=gfm
+              --output=SxsPolicies.md
+              SxsPolicies.tex
+      - name: Convert CoC to MD
+        uses: docker://pandoc/core
+        with:
+          args: >-
+              --to=gfm
+              --output=CodeOfConduct.md
+              CodeOfConduct.tex
+      - name: Commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'SxsPolicies.pdf SxsPolicies.md CodeOfConduct.md'
+          author_name: 'GitHub Action'
+          author_email: 'action@github.com'
+          message: 'Updating built PDF and MD'
