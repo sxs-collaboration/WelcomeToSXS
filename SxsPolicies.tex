@@ -1,0 +1,639 @@
+\documentclass[12pt]{article}
+\usepackage[headheight=14.5pt,margin=2.5cm]{geometry}
+\usepackage{amsmath,amsfonts}
+\usepackage{csquotes}
+\usepackage{hyperref,fancyhdr}
+\usepackage{draftwatermark}
+\usepackage[dvipsnames]{xcolor}
+\newcommand{\comment}[1]{{\color{red}#1}}
+\newcommand{\discuss}[1]{{\color{blue}#1}}
+\newcommand{\action}[1]{{\color{violet}#1}}
+
+\author{Simulating eXtreme Spacetimes Collaboration}
+\date{\today \\Draft of Version 1.0}
+\title{Policies}
+
+% Make fancy headers
+\pagestyle{fancyplain}
+\lhead[SXS Collaboration]{SXS Collaboration}
+\chead[Publication Policies]{Policies}
+\rhead[\thepage]{\thepage}
+\cfoot{}
+% Start the document
+\begin{document}
+\maketitle
+\section{Introduction}
+
+The Simulating eXtreme Spacetimes (SXS) collaboration is a
+multi-institutional collaboration dedicated to the simulation of
+extreme spacetimes in order to predict multi-messenger signals
+(gravitational wave, electromagnetic, and neutrino) from high-energy
+astrophysical events.  This document describes various policies that
+members of the SXS collaboration are expected to adhere to in order to
+carry out effective collaborative research.  One of the goals of these
+policies is to create an inclusive, supportive and harassment-free
+environment that nurtures junior researchers.
+
+\section{SXS membership}\label{sec:sxs_membership}
+
+The SXS collaboration consists of a number of faculty and senior
+researchers that have agreed to use common
+\emph{resources}~(\S\ref{sec:resources}) in order to pursue
+collaborative research.  The current faculty and senior researchers,
+hereafter referred to as \emph{senior members}, are listed
+in~\S\ref{sec:member_faculty}.
+
+SXS \emph{members} are also the post-docs, graduate students, and
+undergradutae students who are working with a SXS senior member on SXS
+\emph{projects}~(\S\ref{sec:projects}).  All SXS members are expected
+to adhere to the collaboration policies.  If someone is unsure of
+somebody's membership status they should consult the SXS
+\emph{executive committee}~(\S\ref{sec:executive_committee}).
+Membership in the SXS collaboration does not guarantee authorship on
+SXS publications.  SXS \emph{member institutions} are all institutions
+with an SXS member.
+
+New members must send an e-mail to the executive committee
+(\emph{exec@black-holes.org}) acknowledging that they have read and
+agree to these SXS policies, including the \emph{code of
+  conduct}~(\S\ref{sec:code_of_conduct}) and \emph{publication
+  policies}~(\S\ref{sec:publication_policies}).  For example:
+
+\begin{displayquote}
+  Dear SXS executive committee,
+
+  I, \textbf{NAME}, acknowledge that I have read and agree with the
+  SXS policies as outlined in the SXS Collaboration Policies
+  document.
+
+  Best,
+
+  \textbf{NAME}
+\end{displayquote}
+
+Faculty or senior researchers who are not members of the SXS
+collaboration can be invited by the SXS executive committee to join
+the SXS Collaboration.  Prior to extending the invitation, an
+announcement must be sent to \emph{sxs-announce@black-holes.org} and
+the \texttt{\#general} channel of the SXS collaboration Slack
+(sxscollab.slack.com), giving members a week to share any concerns
+about the new potential member.  Concerns may be sent either to the
+executive committee or anonymously to the
+\emph{ombudsperson}~(\S\ref{sec:ombudsperson}) or
+\emph{advocate}~(\S\ref{sec:advocate}).  Suggested text:
+
+\begin{displayquote}
+  Dear SXS members,
+
+  The SXS executive committee is looking for feedback on extending an
+  invitation to \textbf{NAME} to join SXS as a faculty/senior
+  researcher member.  Please provide feedback either directly to the
+  executive committee at exec@black-holes.org, or anonymously through
+  the SXS ombudsperson/advocate at ombudsperson@black-holes.org
+  or sxs-advocate@black-holes.org by \textbf{DATE}.
+
+  Best,
+
+  The SXS executive committee
+\end{displayquote}
+
+SXS student and postdoc members who move on to a non-SXS institution
+as a postdoc must decide whether they want to remain as \emph{alumni
+  members}, and retain access to some SXS collaboration resources and
+adhere to SXS policies, or leave SXS and only retain access to public
+SXS resources.  Regardless of the decision, any projects initiated
+before leaving an SXS institution continue to be governed by SXS
+policies until their completion, with continued access to any SXS
+resources that are required for the project.  The student or postdoc
+should discuss with their advisor whether or not they wish to remain
+in the collaboration.  If the advisor and student/postdoc agree that
+remaining in SXS will be mutually beneficial, the advisor will ask the
+executive committee for approval.  The advisor will continue to
+supervise, be responsible for, and remain the point of contact for the
+student/postdoc.  Specifically, the advisor will be responsible for
+ensuring correct access and usage of SXS resources such as computer
+time, codes, and SXS private data.
+
+If a member decides to leave the collaboration, they may retain and
+use current copies of SXS codes, but are expected to offer authorship
+to the developers of the codes who have earned authorship rights as
+discussed in \S\ref{sec:publication_policies}.  The member leaving the
+collaboration can also transition to being an external collaborator
+and discuss with the executive committee what other SXS resources they
+can use.  In all cases, members who leave may continue to use SXS
+resources to finish any projects that were started as SXS members.
+Additionally, any SXS code developers (see \S\ref{sec:codes}) who
+leave the collaboration and are no longer contributing to the code
+will retain any authorship rights they have for at least two years and
+at least five papers using the code.
+
+If a current SXS student, postdoc, or alumni member is starting a
+faculty position, they may apply to the executive committee to become
+a new senior member.  If the executive committee approves the request,
+the executive committee with then follow the procedures above by
+sending a collaboration-wide announcement.
+
+SXS members can be members of other collaborations such as the LIGO
+Scientific Collaboration, the LISA Consortium, etc.  If you believe
+there is a conflict between SXS policies and the policies of the other
+collaboration, please bring it to the attention of the executive
+committee so that the conflict can be resolved.
+
+\section{SXS executive committee}\label{sec:executive_committee}
+
+The responsibility of oversight of the SXS collaboration rests with
+the SXS \emph{executive committee}.
+
+The SXS Executive Committee has the following authority and
+  responsibilities:
+\begin{enumerate}
+\item It has the authority and responsibility for allocating the grant
+  funds from our collaborative grants, with the allocations being
+  guided by our scientific goals and by the various intermediate
+  benchmarks that the Executive Committee defines.  For example, as
+  spelled out in our current Fairchild funding proposal, the Executive
+  Committee receives this authority from Saul Teukolsky, the Fairchild
+  grant PI.  Saul, in consultation with the co-PI Kip Thorne, has the
+  authority to overrule the Executive Committtee's funding allocation
+  decisions for the Fairchild grant, though this will happen very
+  rarely if ever.  The Fairchild funds support people and activities
+  at Caltech and Cornell.  There are also funds for computing
+  hardware. These hardware resources are open to all members of SXS.
+  Note that grants for individual institutions are not overseen by the
+  executive committee, but members should feel free to coordinate
+  activities funded by these grants.
+\item It has the authority and responsibility to keep itself informed
+  about all research projects that are supported by our funds (their
+  nature, progress, and anticipated duration).
+\item It has the authority and responsibility to oversee and allocate
+  SXS collaboration resources~(\S\ref{sec:resources}).
+\item It has the authority and responsibility to oversee and interpret
+  the policies outlined in this document, including the code of
+  conduct~(\S\ref{sec:code_of_conduct}) and publication
+  policies~(\S\ref{sec:publication_policies}).
+\item It has the authority and responsibility to modify these policies
+  and to devise new policies for anything that is not covered by this
+  document.  SXS members may propose modifications or new policies by
+  contacting a member of the executive committee or the advocate.  All
+  changes to the policies in this document will be announced to the
+  collaboration in order to obtain feedback prior to their adoption.
+\item It has the authority to remove a member who is no longer using
+  SXS resources or who has seriously violated the SXS Code of Conduct.
+\end{enumerate}
+
+The current SXS executive committee must decide when inviting a new
+faculty or senior researcher to join the collaboration whether to
+also invite them to join the executive committee.
+
+In general, the SXS executive committee reaches decisions via majority
+vote.  However, any decision that involves resources from a specific
+grant can be vetoed by the PI or co-PI of that grant.
+
+The SXS collaboration will continue to exist until it is unanimously
+decided to disband the collaboration.
+
+The Student/Postdoc advocate (\S\ref{sec:advocate}) is a liason to the
+executive committee, and not a voting member.  The SXS executive
+committee cannot assign the Advocate any tasks or
+responsibilities. This is to ensure that the Advocate is representing
+the students and postdocs, and is \textit{not} a member of the
+executive committee.
+
+\section{SXS code of conduct}\label{sec:code_of_conduct}
+
+It is very important that SXS is a positive, welcoming, and supportive
+environment for everyone.  Therefore, we have adopted a code of
+conduct.  All SXS members must provide written (email okay) agreement
+that they have read and will abide by the code of conduct (see example
+text in \S\ref{sec:sxs_membership}).
+
+SXS has created the positions of \emph{ombudsperson} and
+\emph{student-postdoc advocate} with whom members can informally and
+confidentially discuss any concerns that they might have regarding
+conflicts, problems, violations of the code of conduct, or any other
+concerns they have.  The current ombudsperson and student-postdoc
+advocate are listed in Appendix~\ref{sec:executive_committee_members},
+and can be reached at \emph{ombudsperson@black-holes.org} and
+\emph{sxs-advocate@black-holes.org}
+
+\subsection{Code of conduct text}
+
+\input{CodeOfConduct}
+
+\section{SXS scientific goals and data}\label{sec:goals_and_data}
+
+The scientific goals of the SXS collaboration are to develop codes
+that can be used to predict the gravitational waveforms and
+multi-messenger signals (electromagnetic and neutrino) from
+astrophysical sources targeted by current and future gravitational
+wave detectors.  These sources include compact binary mergers,
+core-collapse supernovae, and accretion disks about compact objects
+(e.g.~neutron stars and black holes).
+
+The codes developed by members of the collaboration in pursuit of the
+aforementioned goals (whether they perform the numerical simulations
+of astrophysical sources, extract predictions of waveforms or signals
+from such sources, or are used to build models of the signals from
+such sources) are considered collaboration codes, and as such are
+available for all members of the collaboration.  This applies whether
+or not the codes are open source.
+
+Contributing to or using non-SXS codes does not fall under these
+policies.  However, the executive committee must be consulted before
+using SXS computational resources with non-SXS codes.
+
+The data produced by SXS codes in pursuit of the above scientific
+goals are considered collaboration data and are available for all
+members of the collaboration to use.  Periodically the collaboration
+will release public catalogs of collaboration data, after which the
+data will be considered public data.
+
+If SXS resources~(\S\ref{sec:resources}) are used for other goals
+(e.g.~proto-planetary disks, or white dwarf mergers, or LIGO thermal
+noise calculations), then the following apply:
+\begin{itemize}
+\item The SXS executivex committee can decide whether or not they
+  wish to supervise the project.
+\item The publication and data policies of the indvidual SXS codes
+  will still apply to the project.
+\item It is expected that code improvements for such purposes be
+  merged into the SXS code repositories.
+\item Data produced by such projects are not considered collaboration
+  data, unless the producers decide to make it collaboration data and
+  the executive committee is willing to maintain and/or host the data.
+\end{itemize}
+
+\section{SXS projects}\label{sec:projects}
+
+Any scientific research (with the expectation of producing one or more
+publications) that uses SXS resources~(\S\ref{sec:resources}) is
+designated an \emph{SXS project} subject to oversight by the SXS
+executive committee.  Any project that uses only public data from the
+start of the project will not be designated an SXS project.  When
+starting a new project, SXS members must consult with a member of the
+SXS executive committee (who may consult the entire executive
+committee and/or lead code developers) in order to determine whether
+or not their project is considered an SXS project.  The executive
+committee may relinquish oversight of a project if the decision to do
+so is unanimous amongst the executive committee, in which case the
+project is not considered to be an SXS project.
+
+At the initiation of an SXS project, an electronic announcement must
+be sent to the SXS Announce mailing list
+\emph{sxs-announce@black-holes.org}, announcing the project,
+summarizing the project and its scope in brief, listing those who are
+initially involved, and inviting other SXS members to join.  The SXS
+Announce mailing list consists of all SXS members.  Early and timely
+announcement of projects is vital to the health of the collaboration
+and to maintaining a collegial environment. Those leading the effort
+on the project are expected to provide periodic updates to an
+executive committee member and are strongly encouraged to present
+updates at one or more of the weekly telecons.  Each project should
+outline the expectations of each contributor in order to earn
+authorship rights on publications from the project.
+
+Although early project announcement is important, it is not intended
+as a method of ``fencing off'' scientific territory. SXS members are
+encouraged to collaborate and communicate with other interested
+members on analysis projects, and the participation of those wishing
+to join an analysis project should be welcomed assuming there is
+sufficient work to be done. At the same time, there may be cases in
+which multiple, independent analysis work on the same or similar
+topics is appropriate or even desirable. In these cases, the executive
+committee will be responsible for ensuring sufficient coordination of
+the analyses and resulting publications.
+
+
+\section{SXS resources}\label{sec:resources}
+
+In order to achieve its scientific goals, the SXS collaboration
+provides a set of community resources for all SXS members.  These
+include a set of \emph{SXS codes} whose \emph{developers} nay earn
+authorship rights on publications from a subset of SXS projects, and
+\emph{SXS infrastructure} whose \emph{maintainers} may also earn
+authorship rights as described below.
+
+\subsection{Codes and developers}\label{sec:codes}
+
+Codes developed to produce collaboration data must be made available
+to all SXS members.  In order to recognize the significant work of
+code developers, the executive committee may designate a code as a SXS
+collaboration code which gives some of its developers authorship
+rights on a subset of SXS projects that either use the code or
+non-public data generated by the code. The lead developers of a code
+may submit a request to the executive committee that their code be
+designated as an SXS collaboration code.  The executive committee may
+also promote codes developed within the collaboration to be a
+collaboration code so that there is someone to take them over in case
+the primary developer leaves academia.  The executive committee,
+however, can not designate external codes to be SXS codes.  In
+addition, the executive committee can demote an existing SXS code if
+it is no longer maintained.
+
+Once designated as a collaboration code by the executive committee,
+the lead developers of the code must present and receive executive
+committee approval of a management plan that:
+\begin{itemize}
+\item Explains how the code will be made accessible to all SXS
+  members.  For example, as either a public repository or a private
+  repository in the GitHub sxs-collaboration organization.
+\item Describes how the code is documented, and how SXS members can
+  ask for help in using the code.
+\item Describes how others can contribute to the code.
+\item Designates one to three lead developers who will be the primary
+  contacts for interaction with the executive committee, and for
+  inquiries from SXS members.  Note that a member of the executive
+  committee is permitted be a lead developer.
+\item Describes the publication policies for papers that use the code
+  or non-public data produced by the code.  We provide a default
+  publication policy in~\S\ref{sec:publication_policies}.
+\end{itemize}
+Otherwise, developers are free to organize their project as they see
+fit.  Developers are free to modify their publication policies,
+subject to approval from the executive committee.
+
+Developers are expected to provide reasonable support for existing
+code, including improving documentation and fixing bugs on a
+reasonable timescale.  Developers, however, are not required to
+implement new features, nor spend unreasonable time supporting new
+code development by others.
+
+Note that simple codes and scripts will not be designated as
+collaboration codes.  Only codes with significant development and
+maintenance will become collaboration codes.  Please discuss with a
+member of the executive committee any development plans for any codes
+beyond simple plotting scripts and data analysis tools.
+
+The advantages of being designated a code as a collaboration code are
+several:
+\begin{itemize}
+\item Some developers of a collaboration code are given publication
+  rights on projects that use the code or data produced by the code.
+\item Additional SXS members can contribute to the code leading to
+  significant improvements for all SXS members.
+\item The collaboration will be able to ensure the existence of the
+  code beyond the interests of the original developer.
+\end{itemize}
+
+Most SXS members will contribute to SXS codes in a modest fashion
+during work towards their projects.  However, a small number of SXS
+members put in significant effort into building the infrastructure of
+a SXS code. In order to reward their effort, an SXS member can be
+designated to have earned authorship rights on papers using the SXS
+code.  Each collaboration code should outline the requirements for
+someone being designated as having earned authorship rights.  For
+large codes such as SpEC or SpECTRE, the suggestion is a total of
+approximately 3000 hours of effort.  For large codes, authorship
+rights may be granted for a subset of the code.
+
+
+In addition, an SXS member can be earn authorship rights for making a
+significant contribution to the code, as decided by the existing
+developers of the code.  If the current developers do not deem the
+contribution significant enough to earn authorship rights, the SXS
+member may appeal to the executive committee.  The executive committee
+will discuss the appeal with the current developers and, if they so
+choose, deem the contribution significant. 
+The following all count as code infrastructure work:
+\begin{itemize}
+\item Maintenance, refactoring, and modernization of source code,
+  build systems, continuous integration, and source repositories
+\item Fixing bugs and optimizing code
+\item Performing code review
+\item Adding or maintaining the ability to build the SXS code on
+  high performance computing systems that SXS uses
+\item Development and implementation of code that is
+  merged into the SXS accessible repository, clearly documented,
+  well-tested to ensure correctness over time, and align with the
+  scientific goals of the collaboration.
+\item Development of backend code that allows the algorithms to work
+  together to perform simulations (e.g.~parallelization code like MPI,
+  I/O code, widely used data structures, etc.)
+\item Running workshops about the code or concepts used by the code.
+\end{itemize}
+
+The list of developers with authorship rights for each code shall be
+maintained by the executive committee.  Nominations for new authorship
+rights based on contributing development work shall be brought forward
+to the executive committee at the beginning of January, May, and
+September of each year. Approval of authorship rights shall be carried
+out by the executive committee with consultation of existing
+developers. Once given authorship rights, that status is maintained as
+long as the person remains a member or participant in the SXS
+collaboration.
+
+The current list of SXS codes and their lead developers are listed in
+Appendix~\ref{sec:current_codes}.
+
+\subsection{Infrastructure and maintainers}\label{sec:infrastructure}
+The SXS collaboration provides a set of community resources for all
+members.  These include:
+\begin{itemize}
+\item SXS website \url{https://www.black-holes.org}
+\item SXS waveform catalog
+\item SXS GitHub organization \url{https://github.com/sxs-collaboration}
+\item SXS Slack organization
+\item SXS compute clusters
+\item SXS continuous integration computers
+\item SXS Google organization and mailing lists
+\item SXS allocation on national computing clusters
+\item Organization of workshops about SXS research
+\end{itemize}
+
+SXS members who spend time as maintainers of these resources can count
+the time towards earning authorship rights for the code of their
+choice, unless it is clearly contributing to a specific code.  SXS
+members are encouraged to contribute to the maintenance of
+infrastructure, and should contact their local member of the executive
+committee in order to explore opportunities for how to contribute.
+
+A complete list of SXS resources and their maintainers are listed in
+Appendix~\ref{sec:current_infrastructure}.  If you believe there is an
+SXS resource missing from the list of resources, please contact a
+member of the executive committee in order to discuss if it should be
+included.
+
+\subsection{Public outreach\label{sec:public outreach}}
+
+SXS views public outreach and engagement as an essential activity for
+SXS members to participate in. To this end, public outreach is counted
+as infrastructure work and is counted towards the time needed for
+earning authorship rights. The time can be allotted to any SXS
+project/code desired. Outreach activities include but are not limited
+to:
+\begin{itemize}
+\item helping with science olympiads,
+\item generating animations and videos for the SXS YouTube channel, or LIGO/LVK
+  to use,
+\item being a panelist at outreach events,
+\item advocacy work related but not limited to mental health, diversity, equity,
+  inclusion, accessibility, etc.~in STEM/academia,
+\item attending schools to teach children about science, even if it is not
+  related to the SXS Scientific Goals,
+\item running and helping with workshops for undergraduate or graduate students,
+  for example as part of a Research Experience for Undergraduates program,
+\item volunteering at science centers, science museums, or planetariums.
+\end{itemize}
+
+\section{SXS publication policies}\label{sec:publication_policies}
+
+The SXS Publication Policy is designed to promote the scientific and
+technical accuracy and timeliness of SXS publications and to ensure
+that fair credit is given to the authors and to other individuals who
+have contributed to the resources used by a SXS project.
+
+\subsection{Purview of this Policy}
+
+This policy covers all SXS projects unless modifications have been
+approved by the executive committee during the SXS project.  The
+developers of each SXS code may choose to adopt these policies with
+respect to authorship rights for SXS projects that use the code or
+data produced by the code, including modifications approved by the
+executive committee.  The policies apply to use of SXS codes,
+regardless of the copyright and license of the code, or whether or not
+the code is publicly available. It also applies to any data generated
+using a SXS code that were not public at the time the SXS Project
+began, even if those data become public before completion of the
+analysis and/or the resulting publication.
+
+Disputes about publication matters, including but not limited to
+authorship and author ordering, will be referred to the executive
+committee if they cannot be resolved directly with the lead authors.
+
+\subsection{Types of papers}
+
+We distinguish several types of papers, which are governed by different
+guidelines, as discussed in later Sections of this policy:
+\begin{enumerate}
+\item Scientific publications presenting results using one or more SXS
+  codes. These publications are further subdivided into:
+  \begin{itemize}
+  \item Collaboration science papers that involve results highlighting
+    major accomplishments for the core science goals of the SXS
+    collaboration. For example, catalog papers, announcements of new
+    waveforms, or highlights of major breakthroughs that SXS as a
+    whole has achieved.
+  \item Standard science papers. Examples include surrogates built
+    using private waveforms, efficacy of new types of initial data,
+    efficacy of new gauge conditions, critical collapse, and
+    simulations in beyond-GR theories.
+  \end{itemize}
+  
+\item Technical papers describing specific numerical
+  algorithms. Technical papers do not show new scientific results, but
+  may show some representative simulations compared to the existing
+  methods. An example would be a paper describing local time stepping,
+  demonstrating speedup and parallel scaling on various problems
+  compared to the existing code.
+\end{enumerate}
+
+It should be made clear what the scope of the project is from the
+beginning in order to decide the type of paper.  If the scope
+significantly changes during the project, the executive committee must
+be updated and may deem the project to fall under a different paper
+category.
+
+\subsection{Authorship and author list ordering}
+
+Authorship of SXS science publications using SXS codes will be drawn
+from two groups: (i) those members and external collaborators who
+contributed to the analysis and writing of the paper (referred to
+below as primary authors); and (ii) those designated developers for
+the SXS codes and maintainers of SXS resources used by the project.
+
+For Collaboration science papers, the author list shall be The SXS
+Collaboration followed by the author names in alphabetical order. In
+general, anyone who is a member of SXS and has contributed to the
+results being presented has rights to authorship.  This includes all
+designated developers of any SXS codes used to produce the results, as
+well as any designated maintainers of SXS infrastructure.
+Furthermore, someone who has run even a single simulation that is part
+of a catalog paper will be an author.
+
+For standard science papers, the default ordering will include two
+tiers, the primary authors and analyzers, followed by an alphabetical
+listing of those SXS code developers with authrorship rights who have
+requested authorship. The author ordering within the first tier is at
+the discretion of the lead authors of the paper. If they wish, the
+lead authors can opt for alphabetical ordering within the first tier
+or for alphabetical ordering of the entire list.  An invitation to SXS
+code developers with authorship rights must be extended at least one
+week prior to writing of the initial draft in order to have the
+opportunity to meaningfully contribute to the paper.  In addition, SXS
+code developers with authorship rights must be notified at least one
+week before submission of the paper so they have sufficient time to
+decide upon whether or not they wish to be an author on the paper.
+Please note the collaborative process is enhanced the earlier
+invitations are made.
+
+For technical papers, authorship will generally be confined to those
+who made direct contributions to the paper, the lead authors shall
+decide on the author ordering. Again, they can choose to make the
+ordering alphabetical if they wish.  In addition, the authors of such
+technical papers must be given authorship rights to at least the first
+three scientific applications of the methods or results of the
+technical paper.
+
+\appendix
+
+\section{SXS membership}
+\subsection{Faculty and senior researchers}\label{sec:member_faculty}
+
+\begin{itemize}
+\item Matthew Duez (Washington State University)
+\item Scott Field (University of Massachusestts Dartmouth)
+\item Francois Foucart (University of New Hampshire)
+\item Lawrence Kidder (Cornell University)
+\item Geoffrey Lovelace (California State University, Fullerton)
+\item Harald Pfeiffer (Max Planck Institute for Gravitational Physics)
+\item Mark Scheel (California Institute of Technology)
+\item Leo Stein (University of Mississippi)
+\item Saul Teukolsky (California Institute of Technology and Cornell University)
+\item Aaron Zimmerman (University of Texas)
+\end{itemize}
+
+\subsection{Executive committee}\label{sec:executive_committee_members}
+\begin{itemize}
+\item Executive committee (\emph{exec@black-holes.org}): Duez,
+  Foucart, Kidder, Lovelace, Pfeiffer, Scheel, Stein, Teukolsky,
+  Zimmerman
+\item Ombudsperson (\emph{ombudsperson@black-holes.org}): Geoffrey Lovelace
+\item Student-Postdoc Advocate (\emph{sxs-advocate@black-holes.org}):
+  Masha Okounkova
+\end{itemize}
+
+\section{SXS codes and developers}\label{sec:current_codes}
+\subsection{Code name}
+\begin{itemize}
+\item How to obtain
+\item Lead developer contact info
+\item Developers
+\item Desired acknowledgment
+\end{itemize}
+\subsection{SpEC}
+\subsection{SpECTRE}
+
+
+\section{SXS infrastructure and
+  maintainers}\label{sec:current_infrastructure}
+\subsection{SXS resource}
+\begin{itemize}
+\item where to find it
+\item who to contact
+\item standard acknowledgment (if applicable)
+\end{itemize}
+\subsection{ SXS website}
+\subsection{ SXS waveform catalog}
+\subsection{ SXS GitHub organization}
+This can be queried from GitHub:\\
+https://github.com/orgs/sxs-collaboration/people?query=role\%3Aowner
+\subsection{ SXS Slack organization}
+\subsection{ SXS compute clusters}
+\subsection{ SXS CI computers}
+\subsection{ SXS Google organization/mailing lists}
+\subsection{SXS computer allocations}
+
+
+\end{document}
+
+
