@@ -840,7 +840,7 @@ paper will be an author.
 
 For standard science papers, the default ordering will include two
 tiers, the primary authors and analyzers, followed by an alphabetical
-listing of those SXS code developers with authrorship rights who have
+listing of those SXS code developers with authorship rights who have
 requested authorship. The author ordering within the first tier is at
 the discretion of the lead authors of the paper. If they wish, the lead
 authors can opt for alphabetical ordering within the first tier or for
@@ -860,6 +860,9 @@ alphabetical if they wish. In addition, the authors of such technical
 papers must be given authorship rights to at least the first three
 scientific applications of the methods or results of the technical
 paper.
+
+The provisions of this authorship section may be superseded in cases of
+violation of the Code of Conduct.
 
 # SXS membership
 
