@@ -14,30 +14,31 @@ junior researchers.
 
 The SXS collaboration consists of a number of faculty and senior
 researchers that have agreed to use common
-*resources* (§<a href="#sec:resources" data-reference-type="ref" data-reference="sec:resources">7</a>)
-in order to pursue collaborative research. The current faculty and
-senior researchers, hereafter referred to as *senior members*, are
-listed
-in §<a href="#sec:member_faculty" data-reference-type="ref" data-reference="sec:member_faculty">9.1</a>.
+*resources* (§<a href="#sec:resources" data-reference-type="ref"
+data-reference="sec:resources">7</a>) in order to pursue collaborative
+research. The current faculty and senior researchers, hereafter referred
+to as *senior members*, are listed
+in §<a href="#sec:member_faculty" data-reference-type="ref"
+data-reference="sec:member_faculty">9.1</a>.
 
 SXS *members* are also the post-docs, graduate students, and
 undergradutae students who are working with a SXS senior member on SXS
-*projects* (§<a href="#sec:projects" data-reference-type="ref" data-reference="sec:projects">6</a>).
-All SXS members are expected to adhere to the collaboration policies. If
-someone is unsure of somebody’s membership status they should consult
-the SXS *executive
-committee* (§<a href="#sec:executive_committee" data-reference-type="ref" data-reference="sec:executive_committee">3</a>).
-Membership in the SXS collaboration does not guarantee authorship on SXS
-publications. SXS *member institutions* are all institutions with an SXS
-member.
+*projects* (§<a href="#sec:projects" data-reference-type="ref"
+data-reference="sec:projects">6</a>). All SXS members are expected to
+adhere to the collaboration policies. If someone is unsure of somebody’s
+membership status they should consult the SXS *executive
+committee* (§<a href="#sec:executive_committee" data-reference-type="ref"
+data-reference="sec:executive_committee">3</a>). Membership in the SXS
+collaboration does not guarantee authorship on SXS publications. SXS
+*member institutions* are all institutions with an SXS member.
 
 New members must send an e-mail to the executive committee
 (*exec@black-holes.org*) acknowledging that they have read and agree to
 these SXS policies, including the *code of
-conduct* (§<a href="#sec:code_of_conduct" data-reference-type="ref" data-reference="sec:code_of_conduct">4</a>)
-and *publication
-policies* (§<a href="#sec:publication_policies" data-reference-type="ref" data-reference="sec:publication_policies">8</a>).
-For example:
+conduct* (§<a href="#sec:code_of_conduct" data-reference-type="ref"
+data-reference="sec:code_of_conduct">4</a>) and *publication
+policies* (§<a href="#sec:publication_policies" data-reference-type="ref"
+data-reference="sec:publication_policies">8</a>). For example:
 
 <div class="displayquote">
 
@@ -60,10 +61,10 @@ channel of the SXS collaboration Slack (sxscollab.slack.com), giving
 members a week to share any concerns about the new potential member.
 Concerns may be sent either to the executive committee or anonymously to
 the
-*ombudsperson* (§<a href="#sec:ombudsperson" data-reference-type="ref" data-reference="sec:ombudsperson">4.1.2</a>)
-or
-*advocate* (§<a href="#sec:advocate" data-reference-type="ref" data-reference="sec:advocate">4.1.3</a>).
-Suggested text:
+*ombudsperson* (§<a href="#sec:ombudsperson" data-reference-type="ref"
+data-reference="sec:ombudsperson">4.1.2</a>) or
+*advocate* (§<a href="#sec:advocate" data-reference-type="ref"
+data-reference="sec:advocate">4.1.3</a>). Suggested text:
 
 <div class="displayquote">
 
@@ -101,17 +102,18 @@ resources such as computer time, codes, and SXS private data.
 If a member decides to leave the collaboration, they may retain and use
 current copies of SXS codes, but are expected to offer authorship to the
 developers of the codes who have earned authorship rights as discussed
-in
-§<a href="#sec:publication_policies" data-reference-type="ref" data-reference="sec:publication_policies">8</a>.
-The member leaving the collaboration can also transition to being an
-external collaborator and discuss with the executive committee what
-other SXS resources they can use. In all cases, members who leave may
-continue to use SXS resources to finish any projects that were started
-as SXS members. Additionally, any SXS code developers (see
-§<a href="#sec:codes" data-reference-type="ref" data-reference="sec:codes">7.1</a>)
-who leave the collaboration and are no longer contributing to the code
-will retain any authorship rights they have for at least two years and
-at least five papers using the code.
+in §<a href="#sec:publication_policies" data-reference-type="ref"
+data-reference="sec:publication_policies">8</a>. The member leaving the
+collaboration can also transition to being an external collaborator and
+discuss with the executive committee what other SXS resources they can
+use. In all cases, members who leave may continue to use SXS resources
+to finish any projects that were started as SXS members. Additionally,
+any SXS code developers (see
+§<a href="#sec:codes" data-reference-type="ref"
+data-reference="sec:codes">7.1</a>) who leave the collaboration and are
+no longer contributing to the code will retain any authorship rights
+they have for at least two years and at least five papers using the
+code.
 
 If a current SXS student, postdoc, or alumni member is starting a
 faculty position, they may apply to the executive committee to become a
@@ -155,13 +157,15 @@ responsibilities:
 
 3.  It has the authority and responsibility to oversee and allocate SXS
     collaboration
-    resources (§<a href="#sec:resources" data-reference-type="ref" data-reference="sec:resources">7</a>).
+    resources (§<a href="#sec:resources" data-reference-type="ref"
+    data-reference="sec:resources">7</a>).
 
 4.  It has the authority and responsibility to oversee and interpret the
     policies outlined in this document, including the code of
-    conduct (§<a href="#sec:code_of_conduct" data-reference-type="ref" data-reference="sec:code_of_conduct">4</a>)
-    and publication
-    policies (§<a href="#sec:publication_policies" data-reference-type="ref" data-reference="sec:publication_policies">8</a>).
+    conduct (§<a href="#sec:code_of_conduct" data-reference-type="ref"
+    data-reference="sec:code_of_conduct">4</a>) and publication
+    policies (§<a href="#sec:publication_policies" data-reference-type="ref"
+    data-reference="sec:publication_policies">8</a>).
 
 5.  It has the authority and responsibility to modify these policies and
     to devise new policies for anything that is not covered by this
@@ -185,12 +189,12 @@ The SXS collaboration will continue to exist until it is unanimously
 decided to disband the collaboration.
 
 The Student/Postdoc advocate
-(§<a href="#sec:advocate" data-reference-type="ref" data-reference="sec:advocate">4.1.3</a>)
-is a liason to the executive committee, and not a voting member. The SXS
-executive committee cannot assign the Advocate any tasks or
-responsibilities. This is to ensure that the Advocate is representing
-the students and postdocs, and is *not* a member of the executive
-committee.
+(§<a href="#sec:advocate" data-reference-type="ref"
+data-reference="sec:advocate">4.1.3</a>) is a liason to the executive
+committee, and not a voting member. The SXS executive committee cannot
+assign the Advocate any tasks or responsibilities. This is to ensure
+that the Advocate is representing the students and postdocs, and is
+*not* a member of the executive committee.
 
 # SXS code of conduct
 
@@ -198,15 +202,17 @@ It is very important that SXS is a positive, welcoming, and supportive
 environment for everyone. Therefore, we have adopted a code of conduct.
 All SXS members must provide written (email okay) agreement that they
 have read and will abide by the code of conduct (see example text in
-§<a href="#sec:sxs_membership" data-reference-type="ref" data-reference="sec:sxs_membership">2</a>).
+§<a href="#sec:sxs_membership" data-reference-type="ref"
+data-reference="sec:sxs_membership">2</a>).
 
 SXS has created the positions of *ombudsperson* and *student-postdoc
 advocate* with whom members can informally and confidentially discuss
 any concerns that they might have regarding conflicts, problems,
 violations of the code of conduct, or any other concerns they have. The
 current ombudsperson and student-postdoc advocate are listed in
-Appendix <a href="#sec:executive_committee_members" data-reference-type="ref" data-reference="sec:executive_committee_members">9.2</a>,
-and can be reached at *ombudsperson@black-holes.org* and
+Appendix <a href="#sec:executive_committee_members" data-reference-type="ref"
+data-reference="sec:executive_committee_members">9.2</a>, and can be
+reached at *ombudsperson@black-holes.org* and
 *sxs-advocate@black-holes.org*
 
 ## Code of conduct text
@@ -514,10 +520,10 @@ the collaboration to use. Periodically the collaboration will release
 public catalogs of collaboration data, after which the data will be
 considered public data.
 
-If SXS
-resources (§<a href="#sec:resources" data-reference-type="ref" data-reference="sec:resources">7</a>)
-are used for other goals (e.g. proto-planetary disks, or white dwarf
-mergers, or LIGO thermal noise calculations), then the following apply:
+If SXS resources (§<a href="#sec:resources" data-reference-type="ref"
+data-reference="sec:resources">7</a>) are used for other goals
+(e.g. proto-planetary disks, or white dwarf mergers, or LIGO thermal
+noise calculations), then the following apply:
 
 -   The SXS executivex committee can decide whether or not they wish to
     supervise the project.
@@ -536,17 +542,17 @@ mergers, or LIGO thermal noise calculations), then the following apply:
 
 Any scientific research (with the expectation of producing one or more
 publications) that uses SXS
-resources (§<a href="#sec:resources" data-reference-type="ref" data-reference="sec:resources">7</a>)
-is designated an *SXS project* subject to oversight by the SXS executive
-committee. Any project that uses only public data from the start of the
-project will not be designated an SXS project. When starting a new
-project, SXS members must consult with a member of the SXS executive
-committee (who may consult the entire executive committee and/or lead
-code developers) in order to determine whether or not their project is
-considered an SXS project. The executive committee may relinquish
-oversight of a project if the decision to do so is unanimous amongst the
-executive committee, in which case the project is not considered to be
-an SXS project.
+resources (§<a href="#sec:resources" data-reference-type="ref"
+data-reference="sec:resources">7</a>) is designated an *SXS project*
+subject to oversight by the SXS executive committee. Any project that
+uses only public data from the start of the project will not be
+designated an SXS project. When starting a new project, SXS members must
+consult with a member of the SXS executive committee (who may consult
+the entire executive committee and/or lead code developers) in order to
+determine whether or not their project is considered an SXS project. The
+executive committee may relinquish oversight of a project if the
+decision to do so is unanimous amongst the executive committee, in which
+case the project is not considered to be an SXS project.
 
 At the initiation of an SXS project, an electronic announcement must be
 sent to the SXS Announce mailing list *sxs-announce@black-holes.org*,
@@ -617,7 +623,8 @@ approval of a management plan that:
 -   Describes the publication policies for papers that use the code or
     non-public data produced by the code. We provide a default
     publication policy
-    in §<a href="#sec:publication_policies" data-reference-type="ref" data-reference="sec:publication_policies">8</a>.
+    in §<a href="#sec:publication_policies" data-reference-type="ref"
+    data-reference="sec:publication_policies">8</a>.
 
 Otherwise, developers are free to organize their project as they see
 fit. Developers are free to modify their publication policies, subject
@@ -698,7 +705,8 @@ Once given authorship rights, that status is maintained as long as the
 person remains a member or participant in the SXS collaboration.
 
 The current list of SXS codes and their lead developers are listed in
-Appendix <a href="#sec:current_codes" data-reference-type="ref" data-reference="sec:current_codes">10</a>.
+Appendix <a href="#sec:current_codes" data-reference-type="ref"
+data-reference="sec:current_codes">10</a>.
 
 ## Infrastructure and maintainers
 
@@ -731,12 +739,13 @@ should contact their local member of the executive committee in order to
 explore opportunities for how to contribute.
 
 A complete list of SXS resources and their maintainers are listed in
-Appendix <a href="#sec:current_infrastructure" data-reference-type="ref" data-reference="sec:current_infrastructure">11</a>.
-If you believe there is an SXS resource missing from the list of
-resources, please contact a member of the executive committee in order
-to discuss if it should be included.
+Appendix <a href="#sec:current_infrastructure" data-reference-type="ref"
+data-reference="sec:current_infrastructure">11</a>. If you believe there
+is an SXS resource missing from the list of resources, please contact a
+member of the executive committee in order to discuss if it should be
+included.
 
-## Public outreach<span id="sec:public outreach" label="sec:public outreach">\[sec:public outreach\]</span>
+## Public outreach<span id="sec:public outreach" label="sec:public outreach"></span>
 
 SXS views public outreach and engagement as an essential activity for
 SXS members to participate in. To this end, public outreach is counted
