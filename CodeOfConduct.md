@@ -4,14 +4,14 @@ With the goal of supporting our fellow group members in doing the best
 science we can, we expect that all members of the Simulating eXtreme
 Spacetimes collaboration
 
--   Behave professionally in a way that is welcoming and respectful to
-    all participants.
+- Behave professionally in a way that is welcoming and respectful to all
+  participants.
 
--   Behave in a way that is free from any form of discrimination,
-    harassment, or retaliation.
+- Behave in a way that is free from any form of discrimination,
+  harassment, or retaliation.
 
--   Treat each other with collegiality and respect and help to create a
-    supportive working environment.
+- Treat each other with collegiality and respect and help to create a
+  supportive working environment.
 
 For more specific guidelines for appropriate conduct, we refer
 collaboration members to the “Ground Rules” section below, which is
@@ -99,17 +99,17 @@ The Simulating eXtreme Spacetimes (SXS) Collaboration has the goal of
 supporting our fellow group members in doing the best science we can. To
 this end, we have a few ground rules that we ask people to adhere to:
 
--   be friendly and patient,
+- be friendly and patient,
 
--   be welcoming,
+- be welcoming,
 
--   be considerate,
+- be considerate,
 
--   be respectful,
+- be respectful,
 
--   be careful in the words that you choose and be kind to others, and
+- be careful in the words that you choose and be kind to others, and
 
--   when we disagree, try to understand why.
+- when we disagree, try to understand why.
 
 This is not an exhaustive list of things that you can’t do. Rather, take
 it in the spirit in which it is intended — a guide to make it easier to
@@ -130,69 +130,68 @@ the SXS Executive Committee (see “Reporting” below). If you would rather
 not formally report your concern, you should feel free to discuss it
 informally and confidentially with the SXS Ombudsperson.
 
--   **Be friendly and patient.** During teleconferences and meetings,
-    participants who wish to speak should feel free to type “hand up” or
-    similar in the comment box, as needed, to get the chairs’ attention.
-    Meeting/teleconference chairs are encouraged to make space for those
-    unfamiliar with the topic of discussion to ask questions and engage.
+- **Be friendly and patient.** During teleconferences and meetings,
+  participants who wish to speak should feel free to type “hand up” or
+  similar in the comment box, as needed, to get the chairs’ attention.
+  Meeting/teleconference chairs are encouraged to make space for those
+  unfamiliar with the topic of discussion to ask questions and engage.
 
--   **Be welcoming.** We strive to be a community that welcomes and
-    supports people of all backgrounds and identities. This includes,
-    but is not limited to members of any race, ethnicity, culture,
-    national origin, colour, immigration status, social and economic
-    class, educational level, sex, sexual orientation, gender identity
-    and expression, age, size, family status, political belief, religion
-    or lack thereof, and mental and physical ability.
+- **Be welcoming.** We strive to be a community that welcomes and
+  supports people of all backgrounds and identities. This includes, but
+  is not limited to members of any race, ethnicity, culture, national
+  origin, colour, immigration status, social and economic class,
+  educational level, sex, sexual orientation, gender identity and
+  expression, age, size, family status, political belief, religion or
+  lack thereof, and mental and physical ability.
 
--   **Be considerate.** Your work will be used by other people, and you
-    in turn will depend on the work of others. Any decision you take
-    will affect users and colleagues, and you should take those
-    consequences into account. Remember that we’re a world-wide
-    community, so you might not be communicating in someone else’s
-    primary language.
+- **Be considerate.** Your work will be used by other people, and you in
+  turn will depend on the work of others. Any decision you take will
+  affect users and colleagues, and you should take those consequences
+  into account. Remember that we’re a world-wide community, so you might
+  not be communicating in someone else’s primary language.
 
--   **Be respectful.** Not all of us will agree all the time, but
-    disagreement is no excuse for poor behavior and poor manners. We
-    might all experience some frustration now and then, but we cannot
-    allow that frustration to turn into a personal attack. It’s
-    important to remember that a community where people feel
-    uncomfortable or threatened is not a productive one. Members of the
-    SXS Collaboration should be respectful when dealing with other
-    members as well as with people outside the SXS Collaboration.
+- **Be respectful.** Not all of us will agree all the time, but
+  disagreement is no excuse for poor behavior and poor manners. We might
+  all experience some frustration now and then, but we cannot allow that
+  frustration to turn into a personal attack. It’s important to remember
+  that a community where people feel uncomfortable or threatened is not
+  a productive one. Members of the SXS Collaboration should be
+  respectful when dealing with other members as well as with people
+  outside the SXS Collaboration.
 
--   **Be careful in the words that you choose and be kind to others.**
-    Do not insult or put down other participants. Harassment and other
-    exclusionary behavior aren’t acceptable. This includes, but is not
-    limited to:
+- **Be careful in the words that you choose and be kind to others.** Do
+  not insult or put down other participants. Harassment and other
+  exclusionary behavior aren’t acceptable. This includes, but is not
+  limited to:
 
-    -   Violent threats or language directed against another person.
+  - Violent threats or language directed against another person.
 
-    -   Discriminatory jokes and language.
+  - Discriminatory jokes and language.
 
-    -   Posting sexually explicit or violent material.
+  - Posting sexually explicit or violent material.
 
-    -   Posting (or threatening to post) other people’s personally
-        identifying information (“doxing”).
+  - Posting (or threatening to post) other people’s personally
+    identifying information (“doxing”).
 
-    -   Personal insults, especially those using racist or sexist terms.
+  - Personal insults, especially those using racist or sexist terms.
 
-    -   Unwelcome sexual attention.
+  - Unwelcome sexual attention.
 
-    -   Advocating for, or encouraging, any of the above behavior.
+  - Advocating for, or encouraging, any of the above behavior.
 
--   **In general, if someone asks you to stop, then stop.** Persisting
-    in such behavior after being asked to stop is considered harassment.
+- **In general, if someone asks you to stop, then stop.** Persisting in
+  such behavior after being asked to stop is considered harassment.
 
--   **When we disagree, try to understand why.** Disagreements, both
-    social and technical, happen all the time, and SXS is no exception.
-    It is important that we resolve disagreements and differing views
-    constructively. Remember that we’re different. The strength of
-    communities comes from having a varied community, people from a wide
-    range of backgrounds. Different people have different perspectives
-    on issues. Being unable to understand why someone holds a viewpoint
-    doesn’t mean that they’re wrong. Don’t forget that it is human to
-    err and blaming each other doesn’t get us anywhere. Instead, focus
-    on helping to resolve issues and learning from mistakes.
+- **When we disagree, try to understand why.** Disagreements, both
+  social and technical, happen all the time, and SXS is no exception. It
+  is important that we resolve disagreements and differing views
+  constructively. Remember that we’re different. The strength of
+  communities comes from having a varied community, people from a wide
+  range of backgrounds. Different people have different perspectives on
+  issues. Being unable to understand why someone holds a viewpoint
+  doesn’t mean that they’re wrong. Don’t forget that it is human to err
+  and blaming each other doesn’t get us anywhere. Instead, focus on
+  helping to resolve issues and learning from mistakes.
 
 ### Reporting (following the LLVM reporting process)
 
@@ -210,25 +209,24 @@ informal as needed for the situation at hand. If possible, please
 include as much information as you can. If you feel comfortable, please
 consider including:
 
--   Your contact info (so we can get in touch with you if we need to
-    follow up).
+- Your contact info (so we can get in touch with you if we need to
+  follow up).
 
--   Names (real, nicknames, or pseudonyms) of any individuals involved.
-    If there were other witnesses besides you, please try to include
-    them as well.
+- Names (real, nicknames, or pseudonyms) of any individuals involved. If
+  there were other witnesses besides you, please try to include them as
+  well.
 
--   When and where the incident occurred. Please be as specific as
-    possible.
+- When and where the incident occurred. Please be as specific as
+  possible.
 
--   Your account of what occurred. If there is a publicly available
-    record (e.g. a mailing list archive or Slack logs) please include a
-    link.
+- Your account of what occurred. If there is a publicly available record
+  (e.g. a mailing list archive or Slack logs) please include a link.
 
--   Any extra context you believe existed for the incident.
+- Any extra context you believe existed for the incident.
 
--   If you believe this incident is ongoing.
+- If you believe this incident is ongoing.
 
--   Any other information you believe we should have.
+- Any other information you believe we should have.
 
 What happens after you file a report? (Following the LLVM process) — You
 will receive an email from the SXS Executive Committee member(s) you
@@ -238,32 +236,32 @@ acknowledgment, please resend your report.
 
 They will review the incident and try to determine:
 
--   What happened and who was involved.
+- What happened and who was involved.
 
--   Whether this event constitutes a code of conduct violation.
+- Whether this event constitutes a code of conduct violation.
 
--   Whether this is an ongoing situation, or if there is a threat to
-    anyone’s physical safety.
+- Whether this is an ongoing situation, or if there is a threat to
+  anyone’s physical safety.
 
 Once the contacted SXS Executive Committee members have a complete
 account of the events they will make a recommendation to the full
 Executive Committee as to how to respond. Responses may include:
 
--   Nothing, if we determine no violation occurred or it has already
-    been appropriately resolved.
+- Nothing, if we determine no violation occurred or it has already been
+  appropriately resolved.
 
--   Providing either moderation or mediation to ongoing interactions
-    (where appropriate, safe, and desired by both parties).
+- Providing either moderation or mediation to ongoing interactions
+  (where appropriate, safe, and desired by both parties).
 
--   A private reprimand from the working group to the individuals
-    involved.
+- A private reprimand from the working group to the individuals
+  involved.
 
--   An imposed vacation (i.e. asking someone to take a week off from a
-    mailing list or Slack).
+- An imposed vacation (i.e. asking someone to take a week off from a
+  mailing list or Slack).
 
--   Escalation to the appropriate institutions.
+- Escalation to the appropriate institutions.
 
--   Involvement of relevant law enforcement if appropriate.
+- Involvement of relevant law enforcement if appropriate.
 
 If the situation is not resolved within one week, we will respond within
 one week to the original reporter with an update and explanation. Once

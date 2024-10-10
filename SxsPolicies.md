@@ -223,14 +223,14 @@ With the goal of supporting our fellow group members in doing the best
 science we can, we expect that all members of the Simulating eXtreme
 Spacetimes collaboration
 
--   Behave professionally in a way that is welcoming and respectful to
-    all participants.
+- Behave professionally in a way that is welcoming and respectful to all
+  participants.
 
--   Behave in a way that is free from any form of discrimination,
-    harassment, or retaliation.
+- Behave in a way that is free from any form of discrimination,
+  harassment, or retaliation.
 
--   Treat each other with collegiality and respect and help to create a
-    supportive working environment.
+- Treat each other with collegiality and respect and help to create a
+  supportive working environment.
 
 For more specific guidelines for appropriate conduct, we refer
 collaboration members to the “Ground Rules” section below, which is
@@ -318,17 +318,17 @@ The Simulating eXtreme Spacetimes (SXS) Collaboration has the goal of
 supporting our fellow group members in doing the best science we can. To
 this end, we have a few ground rules that we ask people to adhere to:
 
--   be friendly and patient,
+- be friendly and patient,
 
--   be welcoming,
+- be welcoming,
 
--   be considerate,
+- be considerate,
 
--   be respectful,
+- be respectful,
 
--   be careful in the words that you choose and be kind to others, and
+- be careful in the words that you choose and be kind to others, and
 
--   when we disagree, try to understand why.
+- when we disagree, try to understand why.
 
 This is not an exhaustive list of things that you can’t do. Rather, take
 it in the spirit in which it is intended — a guide to make it easier to
@@ -349,69 +349,68 @@ the SXS Executive Committee (see “Reporting” below). If you would rather
 not formally report your concern, you should feel free to discuss it
 informally and confidentially with the SXS Ombudsperson.
 
--   **Be friendly and patient.** During teleconferences and meetings,
-    participants who wish to speak should feel free to type “hand up” or
-    similar in the comment box, as needed, to get the chairs’ attention.
-    Meeting/teleconference chairs are encouraged to make space for those
-    unfamiliar with the topic of discussion to ask questions and engage.
+- **Be friendly and patient.** During teleconferences and meetings,
+  participants who wish to speak should feel free to type “hand up” or
+  similar in the comment box, as needed, to get the chairs’ attention.
+  Meeting/teleconference chairs are encouraged to make space for those
+  unfamiliar with the topic of discussion to ask questions and engage.
 
--   **Be welcoming.** We strive to be a community that welcomes and
-    supports people of all backgrounds and identities. This includes,
-    but is not limited to members of any race, ethnicity, culture,
-    national origin, colour, immigration status, social and economic
-    class, educational level, sex, sexual orientation, gender identity
-    and expression, age, size, family status, political belief, religion
-    or lack thereof, and mental and physical ability.
+- **Be welcoming.** We strive to be a community that welcomes and
+  supports people of all backgrounds and identities. This includes, but
+  is not limited to members of any race, ethnicity, culture, national
+  origin, colour, immigration status, social and economic class,
+  educational level, sex, sexual orientation, gender identity and
+  expression, age, size, family status, political belief, religion or
+  lack thereof, and mental and physical ability.
 
--   **Be considerate.** Your work will be used by other people, and you
-    in turn will depend on the work of others. Any decision you take
-    will affect users and colleagues, and you should take those
-    consequences into account. Remember that we’re a world-wide
-    community, so you might not be communicating in someone else’s
-    primary language.
+- **Be considerate.** Your work will be used by other people, and you in
+  turn will depend on the work of others. Any decision you take will
+  affect users and colleagues, and you should take those consequences
+  into account. Remember that we’re a world-wide community, so you might
+  not be communicating in someone else’s primary language.
 
--   **Be respectful.** Not all of us will agree all the time, but
-    disagreement is no excuse for poor behavior and poor manners. We
-    might all experience some frustration now and then, but we cannot
-    allow that frustration to turn into a personal attack. It’s
-    important to remember that a community where people feel
-    uncomfortable or threatened is not a productive one. Members of the
-    SXS Collaboration should be respectful when dealing with other
-    members as well as with people outside the SXS Collaboration.
+- **Be respectful.** Not all of us will agree all the time, but
+  disagreement is no excuse for poor behavior and poor manners. We might
+  all experience some frustration now and then, but we cannot allow that
+  frustration to turn into a personal attack. It’s important to remember
+  that a community where people feel uncomfortable or threatened is not
+  a productive one. Members of the SXS Collaboration should be
+  respectful when dealing with other members as well as with people
+  outside the SXS Collaboration.
 
--   **Be careful in the words that you choose and be kind to others.**
-    Do not insult or put down other participants. Harassment and other
-    exclusionary behavior aren’t acceptable. This includes, but is not
-    limited to:
+- **Be careful in the words that you choose and be kind to others.** Do
+  not insult or put down other participants. Harassment and other
+  exclusionary behavior aren’t acceptable. This includes, but is not
+  limited to:
 
-    -   Violent threats or language directed against another person.
+  - Violent threats or language directed against another person.
 
-    -   Discriminatory jokes and language.
+  - Discriminatory jokes and language.
 
-    -   Posting sexually explicit or violent material.
+  - Posting sexually explicit or violent material.
 
-    -   Posting (or threatening to post) other people’s personally
-        identifying information (“doxing”).
+  - Posting (or threatening to post) other people’s personally
+    identifying information (“doxing”).
 
-    -   Personal insults, especially those using racist or sexist terms.
+  - Personal insults, especially those using racist or sexist terms.
 
-    -   Unwelcome sexual attention.
+  - Unwelcome sexual attention.
 
-    -   Advocating for, or encouraging, any of the above behavior.
+  - Advocating for, or encouraging, any of the above behavior.
 
--   **In general, if someone asks you to stop, then stop.** Persisting
-    in such behavior after being asked to stop is considered harassment.
+- **In general, if someone asks you to stop, then stop.** Persisting in
+  such behavior after being asked to stop is considered harassment.
 
--   **When we disagree, try to understand why.** Disagreements, both
-    social and technical, happen all the time, and SXS is no exception.
-    It is important that we resolve disagreements and differing views
-    constructively. Remember that we’re different. The strength of
-    communities comes from having a varied community, people from a wide
-    range of backgrounds. Different people have different perspectives
-    on issues. Being unable to understand why someone holds a viewpoint
-    doesn’t mean that they’re wrong. Don’t forget that it is human to
-    err and blaming each other doesn’t get us anywhere. Instead, focus
-    on helping to resolve issues and learning from mistakes.
+- **When we disagree, try to understand why.** Disagreements, both
+  social and technical, happen all the time, and SXS is no exception. It
+  is important that we resolve disagreements and differing views
+  constructively. Remember that we’re different. The strength of
+  communities comes from having a varied community, people from a wide
+  range of backgrounds. Different people have different perspectives on
+  issues. Being unable to understand why someone holds a viewpoint
+  doesn’t mean that they’re wrong. Don’t forget that it is human to err
+  and blaming each other doesn’t get us anywhere. Instead, focus on
+  helping to resolve issues and learning from mistakes.
 
 ### Reporting (following the LLVM reporting process)
 
@@ -429,25 +428,24 @@ informal as needed for the situation at hand. If possible, please
 include as much information as you can. If you feel comfortable, please
 consider including:
 
--   Your contact info (so we can get in touch with you if we need to
-    follow up).
+- Your contact info (so we can get in touch with you if we need to
+  follow up).
 
--   Names (real, nicknames, or pseudonyms) of any individuals involved.
-    If there were other witnesses besides you, please try to include
-    them as well.
+- Names (real, nicknames, or pseudonyms) of any individuals involved. If
+  there were other witnesses besides you, please try to include them as
+  well.
 
--   When and where the incident occurred. Please be as specific as
-    possible.
+- When and where the incident occurred. Please be as specific as
+  possible.
 
--   Your account of what occurred. If there is a publicly available
-    record (e.g. a mailing list archive or Slack logs) please include a
-    link.
+- Your account of what occurred. If there is a publicly available record
+  (e.g. a mailing list archive or Slack logs) please include a link.
 
--   Any extra context you believe existed for the incident.
+- Any extra context you believe existed for the incident.
 
--   If you believe this incident is ongoing.
+- If you believe this incident is ongoing.
 
--   Any other information you believe we should have.
+- Any other information you believe we should have.
 
 What happens after you file a report? (Following the LLVM process) — You
 will receive an email from the SXS Executive Committee member(s) you
@@ -457,32 +455,32 @@ acknowledgment, please resend your report.
 
 They will review the incident and try to determine:
 
--   What happened and who was involved.
+- What happened and who was involved.
 
--   Whether this event constitutes a code of conduct violation.
+- Whether this event constitutes a code of conduct violation.
 
--   Whether this is an ongoing situation, or if there is a threat to
-    anyone’s physical safety.
+- Whether this is an ongoing situation, or if there is a threat to
+  anyone’s physical safety.
 
 Once the contacted SXS Executive Committee members have a complete
 account of the events they will make a recommendation to the full
 Executive Committee as to how to respond. Responses may include:
 
--   Nothing, if we determine no violation occurred or it has already
-    been appropriately resolved.
+- Nothing, if we determine no violation occurred or it has already been
+  appropriately resolved.
 
--   Providing either moderation or mediation to ongoing interactions
-    (where appropriate, safe, and desired by both parties).
+- Providing either moderation or mediation to ongoing interactions
+  (where appropriate, safe, and desired by both parties).
 
--   A private reprimand from the working group to the individuals
-    involved.
+- A private reprimand from the working group to the individuals
+  involved.
 
--   An imposed vacation (i.e. asking someone to take a week off from a
-    mailing list or Slack).
+- An imposed vacation (i.e. asking someone to take a week off from a
+  mailing list or Slack).
 
--   Escalation to the appropriate institutions.
+- Escalation to the appropriate institutions.
 
--   Involvement of relevant law enforcement if appropriate.
+- Involvement of relevant law enforcement if appropriate.
 
 If the situation is not resolved within one week, we will respond within
 one week to the original reporter with an update and explanation. Once
@@ -525,18 +523,18 @@ data-reference="sec:resources">7</a>) are used for other goals
 (e.g. proto-planetary disks, or white dwarf mergers, or LIGO thermal
 noise calculations), then the following apply:
 
--   The SXS executivex committee can decide whether or not they wish to
-    supervise the project.
+- The SXS executive committee can decide whether or not they wish to
+  supervise the project.
 
--   The publication and data policies of the indvidual SXS codes will
-    still apply to the project.
+- The publication and data policies of the individual SXS codes will
+  still apply to the project.
 
--   It is expected that code improvements for such purposes be merged
-    into the SXS code repositories.
+- It is expected that code improvements for such purposes be merged into
+  the SXS code repositories.
 
--   Data produced by such projects are not considered collaboration
-    data, unless the producers decide to make it collaboration data and
-    the executive committee is willing to maintain and/or host the data.
+- Data produced by such projects are not considered collaboration data,
+  unless the producers decide to make it collaboration data and the
+  executive committee is willing to maintain and/or host the data.
 
 # SXS projects
 
@@ -606,25 +604,25 @@ Once designated as a collaboration code by the executive committee, the
 lead developers of the code must present and receive executive committee
 approval of a management plan that:
 
--   Explains how the code will be made accessible to all SXS members.
-    For example, as either a public repository or a private repository
-    in the GitHub sxs-collaboration organization.
+- Explains how the code will be made accessible to all SXS members. For
+  example, as either a public repository or a private repository in the
+  GitHub sxs-collaboration organization.
 
--   Describes how the code is documented, and how SXS members can ask
-    for help in using the code.
+- Describes how the code is documented, and how SXS members can ask for
+  help in using the code.
 
--   Describes how others can contribute to the code.
+- Describes how others can contribute to the code.
 
--   Designates one to three lead developers who will be the primary
-    contacts for interaction with the executive committee, and for
-    inquiries from SXS members. Note that a member of the executive
-    committee is permitted be a lead developer.
+- Designates one to three lead developers who will be the primary
+  contacts for interaction with the executive committee, and for
+  inquiries from SXS members. Note that a member of the executive
+  committee is permitted be a lead developer.
 
--   Describes the publication policies for papers that use the code or
-    non-public data produced by the code. We provide a default
-    publication policy
-    in §<a href="#sec:publication_policies" data-reference-type="ref"
-    data-reference="sec:publication_policies">8</a>.
+- Describes the publication policies for papers that use the code or
+  non-public data produced by the code. We provide a default publication
+  policy
+  in §<a href="#sec:publication_policies" data-reference-type="ref"
+  data-reference="sec:publication_policies">8</a>.
 
 Otherwise, developers are free to organize their project as they see
 fit. Developers are free to modify their publication policies, subject
@@ -645,14 +643,14 @@ beyond simple plotting scripts and data analysis tools.
 The advantages of being designated a code as a collaboration code are
 several:
 
--   Some developers of a collaboration code are given publication rights
-    on projects that use the code or data produced by the code.
+- Some developers of a collaboration code are given publication rights
+  on projects that use the code or data produced by the code.
 
--   Additional SXS members can contribute to the code leading to
-    significant improvements for all SXS members.
+- Additional SXS members can contribute to the code leading to
+  significant improvements for all SXS members.
 
--   The collaboration will be able to ensure the existence of the code
-    beyond the interests of the original developer.
+- The collaboration will be able to ensure the existence of the code
+  beyond the interests of the original developer.
 
 Most SXS members will contribute to SXS codes in a modest fashion during
 work towards their projects. However, a small number of SXS members put
@@ -674,26 +672,26 @@ will discuss the appeal with the current developers and, if they so
 choose, deem the contribution significant. The following all count as
 code infrastructure work:
 
--   Maintenance, refactoring, and modernization of source code, build
-    systems, continuous integration, and source repositories
+- Maintenance, refactoring, and modernization of source code, build
+  systems, continuous integration, and source repositories
 
--   Fixing bugs and optimizing code
+- Fixing bugs and optimizing code
 
--   Performing code review
+- Performing code review
 
--   Adding or maintaining the ability to build the SXS code on high
-    performance computing systems that SXS uses
+- Adding or maintaining the ability to build the SXS code on high
+  performance computing systems that SXS uses
 
--   Development and implementation of code that is merged into the SXS
-    accessible repository, clearly documented, well-tested to ensure
-    correctness over time, and align with the scientific goals of the
-    collaboration.
+- Development and implementation of code that is merged into the SXS
+  accessible repository, clearly documented, well-tested to ensure
+  correctness over time, and align with the scientific goals of the
+  collaboration.
 
--   Development of backend code that allows the algorithms to work
-    together to perform simulations (e.g. parallelization code like MPI,
-    I/O code, widely used data structures, etc.)
+- Development of backend code that allows the algorithms to work
+  together to perform simulations (e.g. parallelization code like MPI,
+  I/O code, widely used data structures, etc.)
 
--   Running workshops about the code or concepts used by the code.
+- Running workshops about the code or concepts used by the code.
 
 The list of developers with authorship rights for each code shall be
 maintained by the executive committee. Nominations for new authorship
@@ -713,23 +711,23 @@ data-reference="sec:current_codes">10</a>.
 The SXS collaboration provides a set of community resources for all
 members. These include:
 
--   SXS website <https://www.black-holes.org>
+- SXS website <https://www.black-holes.org>
 
--   SXS waveform catalog
+- SXS waveform catalog
 
--   SXS GitHub organization <https://github.com/sxs-collaboration>
+- SXS GitHub organization <https://github.com/sxs-collaboration>
 
--   SXS Slack organization
+- SXS Slack organization
 
--   SXS compute clusters
+- SXS compute clusters
 
--   SXS continuous integration computers
+- SXS continuous integration computers
 
--   SXS Google organization and mailing lists
+- SXS Google organization and mailing lists
 
--   SXS allocation on national computing clusters
+- SXS allocation on national computing clusters
 
--   Organization of workshops about SXS research
+- Organization of workshops about SXS research
 
 SXS members who spend time as maintainers of these resources can count
 the time towards earning authorship rights for the code of their choice,
@@ -754,24 +752,24 @@ earning authorship rights. The time can be allotted to any SXS
 project/code desired. Outreach activities include but are not limited
 to:
 
--   helping with science olympiads,
+- helping with science olympiads,
 
--   generating animations and videos for the SXS YouTube channel, or
-    LIGO/LVK to use,
+- generating animations and videos for the SXS YouTube channel, or
+  LIGO/LVK to use,
 
--   being a panelist at outreach events,
+- being a panelist at outreach events,
 
--   advocacy work related but not limited to mental health, diversity,
-    equity, inclusion, accessibility, etc. in STEM/academia,
+- advocacy work related but not limited to mental health, diversity,
+  equity, inclusion, accessibility, etc. in STEM/academia,
 
--   attending schools to teach children about science, even if it is not
-    related to the SXS Scientific Goals,
+- attending schools to teach children about science, even if it is not
+  related to the SXS Scientific Goals,
 
--   running and helping with workshops for undergraduate or graduate
-    students, for example as part of a Research Experience for
-    Undergraduates program,
+- running and helping with workshops for undergraduate or graduate
+  students, for example as part of a Research Experience for
+  Undergraduates program,
 
--   volunteering at science centers, science museums, or planetariums.
+- volunteering at science centers, science museums, or planetariums.
 
 # SXS publication policies
 
@@ -806,16 +804,16 @@ guidelines, as discussed in later Sections of this policy:
 1.  Scientific publications presenting results using one or more SXS
     codes. These publications are further subdivided into:
 
-    -   Collaboration science papers that involve results highlighting
-        major accomplishments for the core science goals of the SXS
-        collaboration. For example, catalog papers, announcements of new
-        waveforms, or highlights of major breakthroughs that SXS as a
-        whole has achieved.
+    - Collaboration science papers that involve results highlighting
+      major accomplishments for the core science goals of the SXS
+      collaboration. For example, catalog papers, announcements of new
+      waveforms, or highlights of major breakthroughs that SXS as a
+      whole has achieved.
 
-    -   Standard science papers. Examples include surrogates built using
-        private waveforms, efficacy of new types of initial data,
-        efficacy of new gauge conditions, critical collapse, and
-        simulations in beyond-GR theories.
+    - Standard science papers. Examples include surrogates built using
+      private waveforms, efficacy of new types of initial data, efficacy
+      of new gauge conditions, critical collapse, and simulations in
+      beyond-GR theories.
 
 2.  Technical papers describing specific numerical algorithms. Technical
     papers do not show new scientific results, but may show some
@@ -877,78 +875,126 @@ violation of the Code of Conduct.
 
 ## Faculty and senior researchers
 
--   Matthew Duez (Washington State University)
+- Nils Deppe (Cornell University)
 
--   Scott Field (University of Massachusestts Dartmouth)
+- Matthew Duez (Washington State University)
 
--   Francois Foucart (University of New Hampshire)
+- Scott Field (University of Massachusetts Dartmouth)
 
--   Lawrence Kidder (Cornell University)
+- Francois Foucart (University of New Hampshire)
 
--   Geoffrey Lovelace (California State University, Fullerton)
+- Lawrence Kidder (Cornell University)
 
--   Harald Pfeiffer (Max Planck Institute for Gravitational Physics)
+- Geoffrey Lovelace (California State University, Fullerton)
 
--   Mark Scheel (California Institute of Technology)
+- Elias Most (California Institute of Technology)
 
--   Leo Stein (University of Mississippi)
+- Harald Pfeiffer (Max Planck Institute for Gravitational Physics)
 
--   Saul Teukolsky (California Institute of Technology and Cornell
-    University)
+- Mark Scheel (California Institute of Technology)
 
--   Aaron Zimmerman (University of Texas)
+- Leo Stein (University of Mississippi)
+
+- Saul Teukolsky (California Institute of Technology and Cornell
+  University)
+
+- Vijay Varma (University of Massachusetts Dartmouth)
+
+- Aaron Zimmerman (University of Texas)
 
 ## Executive committee
 
--   Executive committee (*exec@black-holes.org*): Duez, Foucart, Kidder,
-    Lovelace, Pfeiffer, Scheel, Stein, Teukolsky, Zimmerman
+- Executive committee (*exec@black-holes.org*): Deppe, Duez, Foucart,
+  Kidder, Lovelace, Most, Pfeiffer, Scheel, Stein, Teukolsky, Varma,
+  Zimmerman
 
--   Ombudsperson (*ombudsperson@black-holes.org*): Geoffrey Lovelace
+- Ombudsperson (*ombudsperson@black-holes.org*): Geoffrey Lovelace
 
--   Student-Postdoc Advocate (*sxs-advocate@black-holes.org*): Masha
-    Okounkova
+- Student-Postdoc Advocate (*sxs-advocate@black-holes.org*): Marceline
+  (Marcie) Bonilla
 
 # SXS codes and developers
 
-## Code name
-
--   How to obtain
-
--   Lead developer contact info
-
--   Developers
-
--   Desired acknowledgment
-
 ## SpEC
+
+A closed-source repository is available at
+<https://github.com/sxs-collaboration/spec>. This is only available to
+SXS members.
+
+Please contact Larry Kidder, Mark Scheel, and Harald Pfeiffer for
+co-authorship on any papers using non-public data produced by SpEC.
 
 ## SpECTRE
 
+A public repository is available at
+<https://github.com/sxs-collaboration/spectre> and website at
+<https://spectre-code.org/>.
+
+Please see <https://spectre-code.org/publication_policies.html> for
+publication policies governing SpECTRE.
+
+## The sxs package
+
+A public repository is available at
+<https://github.com/sxs-collaboration/sxs>, including documentation on
+how to obtain the package.
+
+The following functionality does not require invitation for
+co-authorship:
+
+- sxs.load
+
+- sxs.simulations
+
+- metadata
+
+- horizons
+
+The following functionality requires invitation for co-authorship for
+Mike Boyle for papers written by SXS members:
+
+- sxs.julia, including the PN and GWFrames codes
+
+## PostNewtonian.jl
+
+A public repository is available at
+<https://github.com/moble/PostNewtonian.jl>, including documentation on
+how to obtain the package.
+
+Offering co-authorship to Mike Boyle is required for papers written by
+SXS members.
+
 # SXS infrastructure and maintainers
-
-## SXS resource
-
--   where to find it
-
--   who to contact
-
--   standard acknowledgment (if applicable)
 
 ##  SXS website
 
+<https://www.black-holes.org/>
+
 ##  SXS waveform catalog
+
+Please use the sxs package (<https://github.com/sxs-collaboration/sxs>)
+to access the waveform catalog.
 
 ##  SXS GitHub organization
 
 This can be queried from GitHub:  
-https://github.com/orgs/sxs-collaboration/people?query=role%3Aowner
+<https://github.com/orgs/sxs-collaboration/people?query=role%3Aowner>
 
 ##  SXS Slack organization
 
+Please see the Wiki,  
+<https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Slack>
+
 ##  SXS compute clusters
+
+Please see the Wiki,  
+<https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Computing-Resources>
 
 ##  SXS CI computers
 
 ##  SXS Google organization/mailing lists
+
+Please see the Wiki,  
+<https://github.com/sxs-collaboration/WelcomeToSXS/wiki/SXS-Mailing-Lists>
 
 ## SXS computer allocations
