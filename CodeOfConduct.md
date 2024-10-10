@@ -36,14 +36,14 @@ conduct.
 
 ### Ombudsperson
 
-The Ombudsperson (currently Geoffrey Lovelace, email
-*ombudsperson@black-holes.org*) is a senior member of the collaboration,
-either faculty or a senior researcher, who offers confidential, neutral,
-and informal conflict resolution services to members of the SXS
-Collaboration. All collaboration members should feel free to contact the
-Ombudsperson to informally and confidentially discuss any concerns that
-they might have regarding conflicts, problems, violations of the code of
-conduct, or any other concerns they might have.
+The Ombudsperson (email *ombudsperson@black-holes.org*) is a senior
+member of the collaboration, either faculty or a senior researcher, who
+offers confidential, neutral, and informal conflict resolution services
+to members of the SXS Collaboration. All collaboration members should
+feel free to contact the Ombudsperson to informally and confidentially
+discuss any concerns that they might have regarding conflicts, problems,
+violations of the code of conduct, or any other concerns they might
+have.
 
 After speaking with Ombudsperson, if you wish, you can choose to ask the
 Ombudsperson to bring your concerns to the attention of the SXS
@@ -66,18 +66,17 @@ election. The ombudsperson serves a two-year term.
 
 ### Student/Postdoc Advocate
 
-The Student/Postdoc Advocate (currently Masha Okounkova, email
-*sxs-advocate@black-holes.org*) is someone who will advocate positively
-for the people in the collaboration with less power, specifically high
-school students, undergraduate students, summer REU students, grad
-students, and postdocs. It may sometimes be daunting to go to
-professors, so please feel free to talk to the Advocate about any issues
-and concerns you may have in the collaboration, especially concerns
-about culture and environment. The Advocate can bring up (anonymously)
-any of your concerns with the SXS executive committee if you wish.
-Otherwise, unless there’s a serious issue of safety, the Advocate will
-keep the Ombudsperson in the loop but otherwise keep your conversation
-confidential.
+The Student/Postdoc Advocate (email *sxs-advocate@black-holes.org*) is
+someone who will advocate positively for the people in the collaboration
+with less power, specifically high school students, undergraduate
+students, summer REU students, grad students, and postdocs. It may
+sometimes be daunting to go to professors, so please feel free to talk
+to the Advocate about any issues and concerns you may have in the
+collaboration, especially concerns about culture and environment. The
+Advocate can bring up (anonymously) any of your concerns with the SXS
+executive committee if you wish. Otherwise, unless there’s a serious
+issue of safety, the Advocate will keep the Ombudsperson in the loop but
+otherwise keep your conversation confidential.
 
 The SXS Advocate must be elected by the student and postdoc members of
 SXS, and be within two years of their Ph.D. (i.e. a senior graduate
