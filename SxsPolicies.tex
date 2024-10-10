@@ -147,6 +147,7 @@ the SXS \emph{executive committee}.
 The SXS Executive Committee has the following authority and
   responsibilities:
 \begin{enumerate}
+\setlength\itemsep{-0.25em}
 \item It has the authority and responsibility for allocating the grant
   funds from our collaborative grants, with the allocations being
   guided by our scientific goals and by the various intermediate
@@ -252,9 +253,10 @@ If SXS resources~(\S\ref{sec:resources}) are used for other goals
 (e.g.~proto-planetary disks, or white dwarf mergers, or LIGO thermal
 noise calculations), then the following apply:
 \begin{itemize}
-\item The SXS executivex committee can decide whether or not they
+\setlength\itemsep{-0.25em}
+\item The SXS executive committee can decide whether or not they
   wish to supervise the project.
-\item The publication and data policies of the indvidual SXS codes
+\item The publication and data policies of the individual SXS codes
   will still apply to the project.
 \item It is expected that code improvements for such purposes be
   merged into the SXS code repositories.
@@ -334,6 +336,7 @@ Once designated as a collaboration code by the executive committee,
 the lead developers of the code must present and receive executive
 committee approval of a management plan that:
 \begin{itemize}
+\setlength\itemsep{-0.25em}
 \item Explains how the code will be made accessible to all SXS
   members.  For example, as either a public repository or a private
   repository in the GitHub sxs-collaboration organization.
@@ -367,6 +370,7 @@ beyond simple plotting scripts and data analysis tools.
 The advantages of being designated a code as a collaboration code are
 several:
 \begin{itemize}
+\setlength\itemsep{-0.25em}
 \item Some developers of a collaboration code are given publication
   rights on projects that use the code or data produced by the code.
 \item Additional SXS members can contribute to the code leading to
@@ -396,6 +400,7 @@ will discuss the appeal with the current developers and, if they so
 choose, deem the contribution significant. 
 The following all count as code infrastructure work:
 \begin{itemize}
+  \setlength\itemsep{-0.25em}
 \item Maintenance, refactoring, and modernization of source code,
   build systems, continuous integration, and source repositories
 \item Fixing bugs and optimizing code
@@ -429,6 +434,7 @@ Appendix~\ref{sec:current_codes}.
 The SXS collaboration provides a set of community resources for all
 members.  These include:
 \begin{itemize}
+  \setlength\itemsep{-0.25em}
 \item SXS website \url{https://www.black-holes.org}
 \item SXS waveform catalog
 \item SXS GitHub organization \url{https://github.com/sxs-collaboration}
@@ -462,6 +468,7 @@ earning authorship rights. The time can be allotted to any SXS
 project/code desired. Outreach activities include but are not limited
 to:
 \begin{itemize}
+\setlength\itemsep{-0.25em}
 \item helping with science olympiads,
 \item generating animations and videos for the SXS YouTube channel, or LIGO/LVK
   to use,
@@ -505,9 +512,11 @@ committee if they cannot be resolved directly with the lead authors.
 We distinguish several types of papers, which are governed by different
 guidelines, as discussed in later Sections of this policy:
 \begin{enumerate}
+\setlength\itemsep{-0.25em}
 \item Scientific publications presenting results using one or more SXS
   codes. These publications are further subdivided into:
   \begin{itemize}
+    \setlength\itemsep{-0.25em}
   \item Collaboration science papers that involve results highlighting
     major accomplishments for the core science goals of the SXS
     collaboration. For example, catalog papers, announcements of new
@@ -583,57 +592,113 @@ violation of the Code of Conduct.
 \subsection{Faculty and senior researchers}\label{sec:member_faculty}
 
 \begin{itemize}
+  \setlength\itemsep{-0.25em}
+\item Nils Deppe (Cornell University)
 \item Matthew Duez (Washington State University)
-\item Scott Field (University of Massachusestts Dartmouth)
+\item Scott Field (University of Massachusetts Dartmouth)
 \item Francois Foucart (University of New Hampshire)
 \item Lawrence Kidder (Cornell University)
 \item Geoffrey Lovelace (California State University, Fullerton)
+\item Elias Most (California Institute of Technology)
 \item Harald Pfeiffer (Max Planck Institute for Gravitational Physics)
 \item Mark Scheel (California Institute of Technology)
 \item Leo Stein (University of Mississippi)
 \item Saul Teukolsky (California Institute of Technology and Cornell University)
+\item Vijay Varma (University of Massachusetts Dartmouth)
 \item Aaron Zimmerman (University of Texas)
 \end{itemize}
 
 \subsection{Executive committee}\label{sec:executive_committee_members}
 \begin{itemize}
-\item Executive committee (\emph{exec@black-holes.org}): Duez,
-  Foucart, Kidder, Lovelace, Pfeiffer, Scheel, Stein, Teukolsky,
-  Zimmerman
+  \setlength\itemsep{-0.25em}
+\item Executive committee (\emph{exec@black-holes.org}): Deppe, Duez,
+  Foucart, Kidder, Lovelace, Most, Pfeiffer, Scheel, Stein, Teukolsky,
+  Varma, Zimmerman
 \item Ombudsperson (\emph{ombudsperson@black-holes.org}): Geoffrey Lovelace
 \item Student-Postdoc Advocate (\emph{sxs-advocate@black-holes.org}):
-  Masha Okounkova
+  Marceline (Marcie) Bonilla
 \end{itemize}
 
 \section{SXS codes and developers}\label{sec:current_codes}
-\subsection{Code name}
-\begin{itemize}
-\item How to obtain
-\item Lead developer contact info
-\item Developers
-\item Desired acknowledgment
-\end{itemize}
+% \subsection{Code name}
+% \begin{itemize}
+% \item How to obtain
+% \item Lead developer contact info
+% \item Developers
+% \item Desired acknowledgment
+% \end{itemize}
 \subsection{SpEC}
-\subsection{SpECTRE}
+A closed-source repository is available at
+\url{https://github.com/sxs-collaboration/spec}. This is only available to SXS
+members.
 
+Please contact Larry Kidder, Mark Scheel, and Harald Pfeiffer for co-authorship
+on any papers using non-public data produced by SpEC.
+
+\subsection{SpECTRE}
+A public repository is available at
+\url{https://github.com/sxs-collaboration/spectre} and website at
+\url{https://spectre-code.org/}.
+
+Please see \url{https://spectre-code.org/publication_policies.html} for
+publication policies governing SpECTRE.
+
+\subsection{The sxs package}
+A public repository is available at
+\url{https://github.com/sxs-collaboration/sxs}, including documentation on how
+to obtain the package.
+
+The following functionality does not require invitation for co-authorship:
+\vspace{-0.5em}
+\begin{itemize}
+  \setlength\itemsep{-0.5em}
+\item sxs.load
+\item sxs.simulations
+\item metadata
+\item horizons
+\end{itemize}
+
+The following functionality requires invitation for co-authorship for Mike Boyle
+for papers written by SXS members:
+\vspace{-0.5em}
+\begin{itemize}
+\item sxs.julia, including the PN and GWFrames codes
+\end{itemize}
+
+\subsection{PostNewtonian.jl}
+A public repository is available at
+\url{https://github.com/moble/PostNewtonian.jl}, including documentation on how
+to obtain the package.
+
+Offering co-authorship to Mike Boyle is required for papers written by SXS
+members.
 
 \section{SXS infrastructure and
   maintainers}\label{sec:current_infrastructure}
-\subsection{SXS resource}
-\begin{itemize}
-\item where to find it
-\item who to contact
-\item standard acknowledgment (if applicable)
-\end{itemize}
+% \subsection{SXS resource}
+% \begin{itemize}
+% \item where to find it
+% \item who to contact
+% \item standard acknowledgment (if applicable)
+% \end{itemize}
 \subsection{ SXS website}
+\url{https://www.black-holes.org/}
 \subsection{ SXS waveform catalog}
+Please use the sxs package (\url{https://github.com/sxs-collaboration/sxs}) to
+access the waveform catalog.
 \subsection{ SXS GitHub organization}
 This can be queried from GitHub:\\
-https://github.com/orgs/sxs-collaboration/people?query=role\%3Aowner
+\url{https://github.com/orgs/sxs-collaboration/people?query=role\%3Aowner}
 \subsection{ SXS Slack organization}
+Please see the Wiki, \\
+\url{https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Slack}
 \subsection{ SXS compute clusters}
+Please see the Wiki, \\
+\url{https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Computing-Resources}
 \subsection{ SXS CI computers}
 \subsection{ SXS Google organization/mailing lists}
+Please see the Wiki,\\
+\url{https://github.com/sxs-collaboration/WelcomeToSXS/wiki/SXS-Mailing-Lists}
 \subsection{SXS computer allocations}
 
 
