@@ -22,7 +22,7 @@ in §<a href="#sec:member_faculty" data-reference-type="ref"
 data-reference="sec:member_faculty">9.1</a>.
 
 SXS *members* are also the post-docs, graduate students, and
-undergradutae students who are working with a SXS senior member on SXS
+undergraduate students who are working with a SXS senior member on SXS
 *projects* (§<a href="#sec:projects" data-reference-type="ref"
 data-reference="sec:projects">6</a>). All SXS members are expected to
 adhere to the collaboration policies. If someone is unsure of somebody’s
@@ -142,7 +142,7 @@ responsibilities:
     spelled out in our current Fairchild funding proposal, the Executive
     Committee receives this authority from Saul Teukolsky, the Fairchild
     grant PI. Saul, in consultation with the co-PI Kip Thorne, has the
-    authority to overrule the Executive Committtee’s funding allocation
+    authority to overrule the Executive Committee’s funding allocation
     decisions for the Fairchild grant, though this will happen very
     rarely if ever. The Fairchild funds support people and activities at
     Caltech and Cornell. There are also funds for computing hardware.
@@ -190,7 +190,7 @@ decided to disband the collaboration.
 
 The Student/Postdoc advocate
 (§<a href="#sec:advocate" data-reference-type="ref"
-data-reference="sec:advocate">4.1.3</a>) is a liason to the executive
+data-reference="sec:advocate">4.1.3</a>) is a liaison to the executive
 committee, and not a voting member. The SXS executive committee cannot
 assign the Advocate any tasks or responsibilities. This is to ensure
 that the Advocate is representing the students and postdocs, and is
