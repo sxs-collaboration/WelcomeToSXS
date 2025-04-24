@@ -909,8 +909,8 @@ violation of the Code of Conduct.
 
 - Ombudsperson (*ombudsperson@black-holes.org*): Geoffrey Lovelace
 
-- Student-Postdoc Advocate (*sxs-advocate@black-holes.org*): Marceline
-  (Marcie) Bonilla
+- Student-Postdoc Advocate (*sxs-advocate@black-holes.org*): Alexandra
+  (Alex) Macedo
 
 # SXS codes and developers
 
