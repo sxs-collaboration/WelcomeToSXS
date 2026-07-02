@@ -742,7 +742,7 @@ is an SXS resource missing from the list of resources, please contact a
 member of the executive committee in order to discuss if it should be
 included.
 
-## Public outreach<span id="sec:public outreach" label="sec:public outreach"></span>
+## Public outreach<span id="sec:public outreach" data-label="sec:public outreach"></span>
 
 SXS views public outreach and engagement as an essential activity for
 SXS members to participate in. To this end, public outreach is counted
@@ -899,12 +899,14 @@ violation of the Code of Conduct.
 
 - Vijay Varma (University of Massachusetts Dartmouth)
 
+- Nils Vu (University of Zurich)
+
 - Aaron Zimmerman (University of Texas)
 
 ## Executive committee
 
 - Executive committee (*exec@black-holes.org*): Deppe, Duez, Foucart,
-  Kidder, Lovelace, Most, Pfeiffer, Scheel, Stein, Teukolsky, Varma,
+  Kidder, Lovelace, Most, Pfeiffer, Scheel, Stein, Teukolsky, Varma, Vu,
   Zimmerman
 
 - Ombudsperson (*ombudsperson@black-holes.org*): Geoffrey Lovelace
@@ -976,24 +978,24 @@ to access the waveform catalog.
 
 ##  SXS GitHub organization
 
-This can be queried from GitHub:  
+This can be queried from GitHub:\
 <https://github.com/orgs/sxs-collaboration/people?query=role%3Aowner>
 
 ##  SXS Slack organization
 
-Please see the Wiki,  
+Please see the Wiki,\
 <https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Slack>
 
 ##  SXS compute clusters
 
-Please see the Wiki,  
+Please see the Wiki,\
 <https://github.com/sxs-collaboration/WelcomeToSXS/wiki/Computing-Resources>
 
 ##  SXS CI computers
 
 ##  SXS Google organization/mailing lists
 
-Please see the Wiki,  
+Please see the Wiki,\
 <https://github.com/sxs-collaboration/WelcomeToSXS/wiki/SXS-Mailing-Lists>
 
 ## SXS computer allocations
